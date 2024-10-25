@@ -24,9 +24,10 @@
 /assets/vendor/
 ###< symfony/asset-mapper ###
 
-###> symfony/env.local ###
+###> symfony/local ###
 .env.local
-###< symfony/env.local ###
+.symfony.local.yaml
+###< symfony/local ###
 
 ###> php-cs-fixer/shim ###
 /.php-cs-fixer.php
